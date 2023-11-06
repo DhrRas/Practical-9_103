@@ -1,0 +1,12 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/alarm_1" android:duration="100"/>
+    <item android:drawable="@drawable/alarm_2" android:duration="100"/>
+    <item android:drawable="@drawable/alarm_3" android:duration="100"/>
+    <item android:drawable="@drawable/alarm_4" android:duration="100"/>
+    <item android:drawable="@drawable/alarm_5" android:duration="100"/>
+    <item android:drawable="@drawable/alarm_6" android:duration="100"/>
+    <item android:drawable="@drawable/alarm_7" android:duration="100"/>
+    <item android:drawable="@drawable/alarm_8" android:duration="100"/>
+    <item android:drawable="@drawable/alarm_9" android:duration="100"/>
+    <item android:drawable="@drawable/alarm_6" android:duration="100"/>
+</animation-list>

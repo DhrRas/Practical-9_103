@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="gradient_splashscreen">gradient_splashscreen</drawable>
+    <drawable name="alarm_1">alarm_1</drawable>
+    <drawable name="alarm_2">alarm_2</drawable>
+    <drawable name="alarm_3">alarm_3</drawable>
+    <drawable name="alarm_4">alarm_4</drawable>
+    <drawable name="alarm_5">alarm_5</drawable>
+    <drawable name="alarm_6">alarm_6</drawable>
+    <drawable name="alarm_7">alarm_7</drawable>
+    <drawable name="alarm_8">alarm_8</drawable>
+    <drawable name="alarm_9">alarm_9</drawable>
+    <drawable name="alarm_10">alarm_10</drawable>
+</resources>
